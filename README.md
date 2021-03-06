@@ -62,9 +62,9 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 5-3: *JavaScript - Events*
   > - [x] 5-4: *JavaScript - Web Storage*
   > - [x] 5-5: *Introduction - JavaScript - Projects*
-  > - [x] *[Project - Meme Generator](https://gui-alucard.github.io/Block05-Project-Meme-Generator/)*
-  > - [x] *[Project - Art with Pixels](https://gui-alucard.github.io/Block05-Project-Art-with-Pixels/)*
-  > - [x] *[Project - Task List](https://github.com/tryber/sd-06-project-todo-list/pull/108)*
+  > - [x] *[Project - Meme Generator - UPLOADING]()*
+  > - [x] *[Project - Art with Pixels - UPLOADING]()*
+  > - [x] *[Project - Task List - UPLOADING]()*
   > - [x] 5-7: *(Bonus) Project - Guess the Color*
   > - [x] 5-7: *(Bonus) Project - Mysterious Card*
 
@@ -81,7 +81,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 6-3: *CSS Flexbox - Part 1*
   > - [x] 6-4: *CSS Flexbox - Part 2*
   > - [x] 6-5: *Responsive CSS - Mobile First*
-  > - [x] *[Project - Facebook home](https://gui-alucard.github.io/Block06-Project-Facebook-home/)*
+  > - [x] *[Project - Facebook home - UPLOADING]()*
 
   </details>
 
@@ -92,7 +92,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 7-1: *JavaScript ES6 - let, const, arrow functions and template literals*
   > - [x] 7-2: *JavaScript ES6 - Objects*
   > - [x] 7-3: *JavaScript unit tests*
-  > - [x] *[Project - JavaScript Unit Tests](https://github.com/Gui-Alucard/Block07-Project-JavaScript-Unit-Tests)*
+  > - [x] *[Project - JavaScript Unit Tests - UPLOADING]()*
 
   </details>
 
@@ -104,7 +104,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 8-2: *JavaScript ES6 - Higher Order Functions - map and filter*
   > - [x] 8-3: *JavaScript ES6 - Higher Order Functions - reduce*
   > - [x] 8-4: *JavaScript ES6 - spread operator, rest parameter, destructuring and more*
-  > - [x] *[Project - Zoo functions](https://github.com/Gui-Alucard/Block08-Project-Zoo-functions)*
+  > - [x] *[Project - Zoo functions - UPLOADING]()*
 
   </details>
 
@@ -114,7 +114,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   > - [x] 9-1: *Asynchronous JavaScript and Callbacks*
   > - [x] 9-2: *JavaScript Promises*
-  > - [x] *[Project - Shopping Cart](https://gui-alucard.github.io/Block09-Project_Shop_cart/)*
+  > - [x] *[Project - Shopping Cart - UPLOADING]()*
 
   </details>
 
@@ -125,7 +125,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 10-1: *First steps at Jest*
   > - [x] 10-2: *Jest - Asynchronous Tests*
   > - [x] 10-3: *Jest - Simulating behaviors*
-  > - [x] *[Project - Asynchronous Jest and Mocking](https://github.com/Gui-Alucard/Block10-Project_Mock_Assync)*
+  > - [x] *[Project - Asynchronous Jest and Mocking - UPLOADING]()*
 
   </details>
 </details>
@@ -141,7 +141,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 11-1: *Introduction - React*
   > - [x] 11-1: *'Hello, world!' in React!*
   > - [x] 11-2: *React Components*
-  > - [x] *[Project - Movie Cards Library](https://gui-alucard.github.io/Block11-Project_Movie_Card/)*
+  > - [x] *[Project - Movie Cards Library - UPLOADING]()*
 
   </details>
 
@@ -151,7 +151,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   > - [x] 12-1: *Components with status and events*
   > - [x] 12-2: *React  forms*
-  > - [x] *[Project - Movie Cards Library Stateful](https://gui-alucard.github.io/Block12-Project_MovieCard_Stateful/)*
+  > - [x] *[Project - Movie Cards Library Stateful - UPLOADING]()*
 
   </details>
 
@@ -161,7 +161,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
 
   > - [x] 13-1: *Components life cycle*
   > - [x] 13-2: *React Router*
-  > - [x] *[Project - Movie Cards Library CRUD](https://gui-alucard.github.io/Block13-Project_MovieCard_CRUD/)*
+  > - [x] *[Project - Movie Cards Library CRUD - UPLOADING]()*
 
   </details>
 
@@ -170,7 +170,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <summary>Block 14: Agile Methodologies :heavy_check_mark:</summary>
 
   > - [x] 14-1: *Agile Methodologies*
-  > - [x] *[Project - Frontend Online Store](https://gui-alucard.github.io/Block14-Project-Agile/)*
+  > - [x] *[Project - Frontend Online Store - UPLOADING]()*
 
   </details>
 
@@ -181,7 +181,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 15-1: *RTL - First steps*
   > - [x] 15-2: *RTL - Mocks and Inputs*
   > - [x] 15-3: *RTL - Testing React Router*
-  > - [x] *[Project - React Tests](https://github.com/Gui-Alucard/Block15-Project-RTL)*
+  > - [x] *[Project - React Tests - UPLOADING]()*
 
   </details>
 
@@ -221,7 +221,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   <details>
   <summary>Block 19: Final Front-end Project :heavy_check_mark:</summary>
 
-  > - [x] *[Project - Recipe App](https://gui-alucard.github.io/app-receitas/)*
+  > - [x] *[Project - Recipe App - UPLOADING]()*
 
   </details>
 ​</details>
