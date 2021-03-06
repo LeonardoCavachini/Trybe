@@ -64,7 +64,7 @@ The program has more than *1500 hours* of classroom and online classes and cover
   > - [x] 5-5: *Introduction - JavaScript - Projects*
   > - [x] *[Project - Meme Generator](https://gui-alucard.github.io/Block05-Project-Meme-Generator/)*
   > - [x] *[Project - Art with Pixels](https://gui-alucard.github.io/Block05-Project-Art-with-Pixels/)*
-  > - [x] *[Project - Task List](https://gui-alucard.github.io/Block05-Project-Task-List/)*
+  > - [x] *[Project - Task List](https://github.com/tryber/sd-06-project-todo-list/pull/108)*
   > - [x] 5-7: *(Bonus) Project - Guess the Color*
   > - [x] 5-7: *(Bonus) Project - Mysterious Card*
 
